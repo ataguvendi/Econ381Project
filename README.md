@@ -17,7 +17,7 @@ pip install marimo
 
 additional guidance can be found on the [Marimo installation guide](https://docs.marimo.io/getting_started/installation/#install-with-recommended-dependencies).
 
-The run by:
+Then run by:
 
 ```bash
 python3 -m marimo run companion.py
